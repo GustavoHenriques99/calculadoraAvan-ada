@@ -1,4 +1,4 @@
-# calculadora Avançada
+# Calculadora avançada
 Criando um programa em C com um menu interativo, que permita ao usuário escolher entre diferentes operações matemáticas, de conversão e de manipulação de texto.
 Cada opção do menu deve chamar uma função separada, que exibirá um submenu com as opções e funções específicas daquela operação.
 
